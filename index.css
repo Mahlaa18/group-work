@@ -1,0 +1,24 @@
+.botton{
+border: none;
+border-radius: 10px;
+margin: 2rem;
+padding: 1rem 2rem;
+box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+width: 10%;
+background-color: #E7E7E7;
+cursor: pointer;
+transition: all .2s ease-in-out;
+font-size: 1.5rem;
+transform: scale(1);
+}
+.botton:hover{
+    background-color: rgba(136, 133, 133, 0.257);
+    box-shadow: rgba(0, 0, 0, 0.435) 2rem 1rem 3rem;
+    transform: scale(1.2);
+    color: rgb(140, 89, 89);
+}
+.botton:focus{
+    transform: scale(1.2);
+    box-shadow: rgba(0, 0, 0, 0.25) .2rem .2rem .5rem;
+    font-size: 2.5rem;
+}
