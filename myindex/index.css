@@ -2,11 +2,7 @@ body{
     height: 100vh;
     /* background-color: red; */
     bottom: 400VH  ;
-    
-
-
 }
-
 /* https://sfd.birlug.ir/
 codepen  */
 .main{
@@ -92,7 +88,6 @@ img{
     display: flex;
     bottom: 200px;
     justify-content: center;
-    
 }
 
 .my-float{
@@ -102,5 +97,4 @@ img{
     /* float: inherit; */
     /* float:inline-end; */
     float: right ;
-    
 }
