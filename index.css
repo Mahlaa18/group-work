@@ -15,7 +15,7 @@ transform: scale(1);
     background-color: rgba(136, 133, 133, 0.257);
     box-shadow: rgba(0, 0, 0, 0.435) 2rem 1rem 3rem;
     transform: scale(1.2);
-    color: rgb(140, 89, 89);
+    color: rgba(205, 146, 146, 0.555);
 }
 .botton:focus{
     transform: scale(1.2);
